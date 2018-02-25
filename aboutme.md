@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Camila Martinez. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I like bioinformatics
+- I'm extremely greatful for the people who did the template that I am using
 
 What else do you need?
 
